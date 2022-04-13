@@ -1,1 +1,4 @@
 .cpp linguist-language=asl;
+.hpp linguist-language=asl;
+.c linguist-language=asl;
+.h linguist-language=asl;
