@@ -1862,7 +1862,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>FVF931108CD0000JA</string>
+			<string></string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -1872,11 +1872,11 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacBookPro15,4</string>
+			<string></string>
 			<key>SystemSerialNumber</key>
-			<string>FVFZ52Z7L40Y</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>C9CF4757-B757-4E28-B62D-AEAACDDECB91</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>

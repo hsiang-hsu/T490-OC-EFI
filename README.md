@@ -7,6 +7,10 @@
 
 - CPU：i7-10510U
 - 显卡：UHD630
+- 声卡：RealtekALC257
+- 硬盘：Kinston SA2000M81000G
+- 内存：Samsung DDR4
+- ……
 
 ## 正常工作
 
